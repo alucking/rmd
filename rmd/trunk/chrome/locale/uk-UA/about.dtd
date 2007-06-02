@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Про Remember Mismatched Domains">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "версія">
-<!ENTITY description.label "Додає параметр &apos;не питати знову про цей домен&apos; до вікна попередження про невідповідність сертифіката імені домену.">
-<!ENTITY label.created.label "Автор">
-<!ENTITY label.contribute.label "Перекладачі">
-<!ENTITY button.ok.label "ОК">

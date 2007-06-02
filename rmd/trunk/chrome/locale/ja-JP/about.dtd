@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Remember Mismatched Domains について">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "バージョン">
-<!ENTITY description.label "「今後は尋ねない」オプションをドメイン名不一致のセキュリティエラーウィンドウに追加します。">
-<!ENTITY label.created.label "製作">
-<!ENTITY label.contribute.label "翻訳者">
-<!ENTITY button.ok.label "OK">

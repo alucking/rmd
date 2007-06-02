@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Περί Remember Mismatched Domains">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "έκδοση">
-<!ENTITY description.label "Προσθέτει την επιλογή &apos;να μην ειδοποιηθώ ξανά&apos; στο παράθυρο Σφάλματος Ασφαλείας Αναντιστοιχίας Ονόματος Τομέα.">
-<!ENTITY label.created.label "Δημιουργός">
-<!ENTITY label.contribute.label "Μεταφραστές">
-<!ENTITY button.ok.label "Εντάξει">

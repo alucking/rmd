@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Over Remember Mismatched Domains">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "versie">
-<!ENTITY description.label "Voegt een &apos;mij niet meer vragen&apos; optie toe aan het foutmeldingsvenster van de beveiliging tegen niet-kloppende domeinnamen.">
-<!ENTITY label.created.label "Gemaakt door">
-<!ENTITY label.contribute.label "Vertalers">
-<!ENTITY button.ok.label "OK">

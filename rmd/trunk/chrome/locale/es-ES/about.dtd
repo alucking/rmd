@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Acerca de Remember Mismatched Domains">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "versión">
-<!ENTITY description.label "Añade la opción &apos;no preguntar de nuevo&apos; a la ventana del error de seguridad &apos;el nombre de dominio no corresponde&apos;.">
-<!ENTITY label.created.label "Creada por">
-<!ENTITY label.contribute.label "Traductores">
-<!ENTITY button.ok.label "Aceptar">

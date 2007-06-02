@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "Remember Mismatched Domains 정보">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "버전">
-<!ENTITY description.label "Domain Name Mismatch 보안 에러창에 &apos;다시 묻지 않음&apos; 선택항목을 추가.">
-<!ENTITY label.created.label "제작자">
-<!ENTITY label.contribute.label "번역자">
-<!ENTITY button.ok.label "확인">

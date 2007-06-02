@@ -1,7 +1,0 @@
-<!ENTITY window.title.label "About Remember Mismatched Domains">
-<!ENTITY label.title.label "Remember Mismatched Domains">
-<!ENTITY label.version.label "version">
-<!ENTITY description.label "Adds a &apos;don&apos;t ask me again&apos; option to the Domain Name Mismatch Security Error window.">
-<!ENTITY label.created.label "Created By">
-<!ENTITY label.contribute.label "Translators">
-<!ENTITY button.ok.label "OK">
