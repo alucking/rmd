@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "关于&quot;记住不匹配的域名&quot;">
+<!ENTITY label.title.label "记住不匹配的域名">
+<!ENTITY label.version.label "版本">
+<!ENTITY description.label "给“域名不匹配安全错误”窗口，添加‘不再询问’选项。">
+<!ENTITY label.created.label "作者：">
+<!ENTITY label.contribute.label "翻译者：">
+<!ENTITY button.ok.label "确定">

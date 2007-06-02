@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Opcje rozszerzenia Remember Mismatched Domains">
+<!ENTITY tab.mismatch.label " Niezgodność nazwy domeny ">
+<!ENTITY tab.expired.label " Wygaśnięcie certyfikatu serwera ">
+<!ENTITY tabpanel.mismatch.label "Zapamiętane nazwy domen">
+<!ENTITY tabpanel.expired.label "Zapamiętane wygasłe certyfikaty">
+<!ENTITY treecol.mismatch.domain.label "Domena strony">
+<!ENTITY treecol.mismatch.cert.label "Domena certyfikatu">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Odcisk certifikatu (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Odcisk certifikatu (MD5)">
+<!ENTITY treecol.expired.domain.label "Domena certyfikatu">
+<!ENTITY treecol.expired.date.label "Data wygaśnięcia">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Odcisk certifikatu (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Odcisk certifikatu (MD5)">
+<!ENTITY button.delete.label "Usuń">
+<!ENTITY button.ok.label "OK">
+<!ENTITY button.cancel.label "Anuluj">

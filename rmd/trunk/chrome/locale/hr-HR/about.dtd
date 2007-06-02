@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "O Remember Mismatched Domains">
+<!ENTITY label.title.label "Remember Mismatched Domains">
+<!ENTITY label.version.label "Inačica">
+<!ENTITY description.label "Dodaje &apos;nemoj me ponovno pitati&apos; opciju u prozor o sigurnosnoj pogrešci u nepodudarnosti imena domene.">
+<!ENTITY label.created.label "Kreirao">
+<!ENTITY label.contribute.label "Prevoditelji">
+<!ENTITY button.ok.label "Uredu">

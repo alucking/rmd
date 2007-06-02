@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "A propos de Remember Mismatched Domains">
+<!ENTITY label.title.label "Remember Mismatched Domains">
+<!ENTITY label.version.label "Version">
+<!ENTITY description.label "Ajoute une option &quot;Ne pas redemander&quot; à la fenêtre &quot;Erreur de Sécurité nom de domaine incompatible&quot;">
+<!ENTITY label.created.label "Créé par">
+<!ENTITY label.contribute.label "Participants">
+<!ENTITY button.ok.label "OK">

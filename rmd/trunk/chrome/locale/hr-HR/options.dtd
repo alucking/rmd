@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Remember Mismatched Domains Opcije">
+<!ENTITY tab.mismatch.label " Nepodudarnost imena domene ">
+<!ENTITY tab.expired.label " Istek potvrde domene ">
+<!ENTITY tabpanel.mismatch.label "Zapamćeni parovi imena domena">
+<!ENTITY tabpanel.expired.label "Zapamćene istekle potvrde">
+<!ENTITY treecol.mismatch.domain.label "Domena web stranice">
+<!ENTITY treecol.mismatch.cert.label "Domena potvrde">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Otisak prsta potvrde (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Otisak prsta potvrde (MD5)">
+<!ENTITY treecol.expired.domain.label "Domena potvrde">
+<!ENTITY treecol.expired.date.label "Istječe">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Otisak prsta potvrde (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Otisak prsta potvrde (MD5)">
+<!ENTITY button.delete.label "Obriši">
+<!ENTITY button.ok.label "Uredu">
+<!ENTITY button.cancel.label "Odustani">
