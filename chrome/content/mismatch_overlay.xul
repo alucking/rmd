@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE window SYSTEM "chrome://remember-mismatch/locale/remember_mismatch.dtd">
+
+<overlay id="rmd-domain-mismatch-overlay"
+         xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript" src="mismatch_overlay.js"/>
+
+<window id="domainMismatch" flex="100%"> <!-- domain mismatch overlay -->
+    <box id="rmd-box"  flex="100%">
+        <checkbox id="rmd-checkbox"
+                  label="&cb.rmd.label;"
+                  checked="false"/>
+    </box>
+</window>
+
+<window id="serverCertExpired" flex="100%">  <!-- cert expired overlay -->
+    <box id="rmd-box"  flex="100%">
+        <checkbox id="rmd-checkbox"
+                  label="&cb.rmd.label;"
+                  checked="false"
+                  flex="100%"/>
+    </box>
+</window>
+
+</overlay>

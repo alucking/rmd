@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "Informazioni su Remember Mismatched Domains">
+<!ENTITY label.title.label "Remember Mismatched Domains">
+<!ENTITY label.version.label "versione">
+<!ENTITY description.label "Permette di aggiungere l&apos;opzione &apos;non chiedermelo nuovamente&apos; nella finestra chiamata &apos;Errore di sicurezza&apos; per la mancata corrispondenza nome dominio">
+<!ENTITY label.created.label "Creata da">
+<!ENTITY label.contribute.label "Traduttori">
+<!ENTITY button.ok.label "OK">

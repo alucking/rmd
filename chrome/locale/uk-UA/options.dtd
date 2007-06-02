@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Налаштування Remember Mismatched Domains">
+<!ENTITY tab.mismatch.label "Невідповідність імені домена">
+<!ENTITY tab.expired.label "Застарілий сертифікат сервера">
+<!ENTITY tabpanel.mismatch.label "Запам&apos;ятовані пари імен доменів">
+<!ENTITY tabpanel.expired.label "Запам&apos;ятовані застарілі сертифікати">
+<!ENTITY treecol.mismatch.domain.label "Домен веб-сторінки">
+<!ENTITY treecol.mismatch.cert.label "Домен сертифіката">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Відбиток сертифіката (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Відбиток сертифіката (MD5)">
+<!ENTITY treecol.expired.domain.label "Домен сертифіката">
+<!ENTITY treecol.expired.date.label "Недійсний з">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Відбиток сертифіката (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Відбиток сертифіката (MD5)">
+<!ENTITY button.delete.label "Видалити">
+<!ENTITY button.ok.label "ОК">
+<!ENTITY button.cancel.label "Скасувати">

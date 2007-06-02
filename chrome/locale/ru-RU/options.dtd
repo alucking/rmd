@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Настройки Remember Mismatched Domains">
+<!ENTITY tab.mismatch.label "Несоответствие имени домена">
+<!ENTITY tab.expired.label "Сертификат с истекшим сроком действия">
+<!ENTITY tabpanel.mismatch.label "Запомненные пары имен доменов">
+<!ENTITY tabpanel.expired.label "Запомненные истекшие сертификаты">
+<!ENTITY treecol.mismatch.domain.label "Домен веб-сайта">
+<!ENTITY treecol.mismatch.cert.label "Домен сертификата">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Отпечаток сертификата (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Отпечаток сертификата (MD5)">
+<!ENTITY treecol.expired.domain.label "Домен сертификата">
+<!ENTITY treecol.expired.date.label "Дата истечения срока действия">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Отпечаток сертификата (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Отпечаток сертификата (MD5)">
+<!ENTITY button.delete.label "Удалить">
+<!ENTITY button.ok.label "ОК">
+<!ENTITY button.cancel.label "Отмена">

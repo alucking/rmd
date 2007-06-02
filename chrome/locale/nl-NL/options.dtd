@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Remember Mismatched Domains opties">
+<!ENTITY tab.mismatch.label "Niet-kloppende domeinnaam">
+<!ENTITY tab.expired.label "Server certificaat verlopen">
+<!ENTITY tabpanel.mismatch.label "Onthouden domeinnaam-paren">
+<!ENTITY tabpanel.expired.label "Onthouden verlopen certificaten">
+<!ENTITY treecol.mismatch.domain.label "Website-domein">
+<!ENTITY treecol.mismatch.cert.label "Certificaat-domein">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Certificaat vingerafdruk (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Certificaat vingerafdruk (MD5)">
+<!ENTITY treecol.expired.domain.label "Certificaat-domein">
+<!ENTITY treecol.expired.date.label "Verlopen op">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Certificaat vingerafdruk (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Certificaat vingerafdruk (MD5)">
+<!ENTITY button.delete.label "Verwijderen">
+<!ENTITY button.ok.label "OK">
+<!ENTITY button.cancel.label "Stoppen">
