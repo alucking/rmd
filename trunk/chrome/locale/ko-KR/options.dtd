@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Remember Mismatched Domains 환경설정">
+<!ENTITY tab.mismatch.label "도메인명 불일치">
+<!ENTITY tab.expired.label "서버 인증서 만료">
+<!ENTITY tabpanel.mismatch.label "도메인명 한쌍을 기억">
+<!ENTITY tabpanel.expired.label "만료된 인증서 기억">
+<!ENTITY treecol.mismatch.domain.label "웹사이트 도메인">
+<!ENTITY treecol.mismatch.cert.label "인증서 도메인">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "인증서 지문(SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "인증서 지문(MD5)">
+<!ENTITY treecol.expired.domain.label "인증서 도메인">
+<!ENTITY treecol.expired.date.label "만료 작동">
+<!ENTITY treecol.expired.fingerprint_sha1.label "인증서 지문(SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "인증서 지문(MD5)">
+<!ENTITY button.delete.label "삭제">
+<!ENTITY button.ok.label "확인">
+<!ENTITY button.cancel.label "취소">

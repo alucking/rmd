@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "Tietoja">
+<!ENTITY label.title.label "Muistissa olevat verkkoalueet, jotka eivät täsmää">
+<!ENTITY label.version.label "versio">
+<!ENTITY description.label "Lisätään &apos;:älä kysy enää&apos; -valinta varmennevirhekyselyikkunaan.">
+<!ENTITY label.created.label "Luonut:">
+<!ENTITY label.contribute.label "Kääntäjät">
+<!ENTITY button.ok.label "OK">

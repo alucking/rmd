@@ -1,0 +1,7 @@
+<!ENTITY window.title.label "Remember Mismatched Domains - informacje">
+<!ENTITY label.title.label "Remember Mismatched Domains">
+<!ENTITY label.version.label "wersja">
+<!ENTITY description.label "Dodaje opcję &quot;Nie pytaj więcej&quot; do okna &quot;Błąd zabezpieczeń: Niezgodność nazwy domeny&quot;.">
+<!ENTITY label.created.label "Stworzony przez">
+<!ENTITY label.contribute.label "Współtwórcy">
+<!ENTITY button.ok.label "OK">

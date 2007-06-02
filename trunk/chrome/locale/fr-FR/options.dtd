@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Options de Remember Mismatched Domains">
+<!ENTITY tab.mismatch.label "Non-correspondance des noms de domaine">
+<!ENTITY tab.expired.label "Expiration des certificats serveur">
+<!ENTITY tabpanel.mismatch.label "Archive des paires des noms de domaine">
+<!ENTITY tabpanel.expired.label "Archive des certificats expirés">
+<!ENTITY treecol.mismatch.domain.label "Domaine du site web">
+<!ENTITY treecol.mismatch.cert.label "Domaine du certificat">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Certificate Fingerprint (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Certificate Fingerprint (MD5)">
+<!ENTITY treecol.expired.domain.label "Domaine du certificat">
+<!ENTITY treecol.expired.date.label "Expire le">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Certificate Fingerprint (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Certificate Fingerprint (MD5)">
+<!ENTITY button.delete.label "Supprimer">
+<!ENTITY button.ok.label "OK">
+<!ENTITY button.cancel.label "Annuler">

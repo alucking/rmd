@@ -1,0 +1,16 @@
+<!ENTITY window.title.label "Remember Mismatched Domains Options">
+<!ENTITY tab.mismatch.label " Domain Name Mismatch ">
+<!ENTITY tab.expired.label " Server Certificate Expired ">
+<!ENTITY tabpanel.mismatch.label "Remembered Domain Name Pairs">
+<!ENTITY tabpanel.expired.label "Remembered Expired Certificates">
+<!ENTITY treecol.mismatch.domain.label "Website Domain">
+<!ENTITY treecol.mismatch.cert.label "Certificate Domain">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Certificate Fingerprint (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Certificate Fingerprint (MD5)">
+<!ENTITY treecol.expired.domain.label "Certificate Domain">
+<!ENTITY treecol.expired.date.label "Expired On">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Certificate Fingerprint (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Certificate Fingerprint (MD5)">
+<!ENTITY button.delete.label "Slett">
+<!ENTITY button.ok.label "OK">
+<!ENTITY button.cancel.label "Avbryt">
