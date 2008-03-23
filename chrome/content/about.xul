@@ -13,7 +13,7 @@
 <vbox id="about_box">
     <vbox id="title_box" flex="1" style="border: solid; border-width: 0px 0px 1px 0px;">
         <label value="&label.title.label;" style="font-weight: bold; font-size: large;"/>
-        <label value="&label.version.label; 1.4.5" style="font-size:small color: #444; margin-bottom: 10px;"/>
+        <label value="&label.version.label; 1.4.6" style="font-size:small color: #444; margin-bottom: 10px;"/>
     </vbox>
         <description style="color: #444; text-align: center; margin: 10px; width: 290px;">
             &description.label;
@@ -71,6 +71,8 @@
 	            <label value="Rodrigo Bergmann Laurindo (pt)"
 	               style="color:#000000; text-align: center; margin: 0px 0px 0px 0px;"/>
 	            <label value="Alexander L. Slovesnik (ru)"
+	               style="color:#000000; text-align: center; margin: 0px 0px 0px 0px;"/>
+	            <label value="smyrna (tr)"
 	               style="color:#000000; text-align: center; margin: 0px 0px 0px 0px;"/>
 	            <label value="Cesar (uk)"
 	               style="color:#000000; text-align: center; margin: 0px 0px 0px 0px;"/>

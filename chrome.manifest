@@ -19,12 +19,13 @@ locale remember-mismatch fi-FI jar:chrome/remember-mismatch.jar!/locale/fi-FI/
 locale remember-mismatch fr-FR jar:chrome/remember-mismatch.jar!/locale/fr-FR/
 locale remember-mismatch hr-HR jar:chrome/remember-mismatch.jar!/locale/hr-HR/
 locale remember-mismatch it-IT jar:chrome/remember-mismatch.jar!/locale/it-IT/
-locale remember-mismatch ja-JA jar:chrome/remember-mismatch.jar!/locale/ja-JA/
+locale remember-mismatch ja-JP jar:chrome/remember-mismatch.jar!/locale/ja-JP/
 locale remember-mismatch ko-KR jar:chrome/remember-mismatch.jar!/locale/ko-KR/
 locale remember-mismatch nb-NO jar:chrome/remember-mismatch.jar!/locale/nb-NO/
 locale remember-mismatch nl-NL jar:chrome/remember-mismatch.jar!/locale/pl-PL/
 locale remember-mismatch pl-PL jar:chrome/remember-mismatch.jar!/locale/nl-NL/
 locale remember-mismatch pt-BR jar:chrome/remember-mismatch.jar!/locale/pt-BR/
 locale remember-mismatch ru-RU jar:chrome/remember-mismatch.jar!/locale/ru-RU/
+locale remember-mismatch tr-TR jar:chrome/remember-mismatch.jar!/locale/tr-TR/
 locale remember-mismatch uk-UA jar:chrome/remember-mismatch.jar!/locale/uk-UA/
 locale remember-mismatch zh-CN jar:chrome/remember-mismatch.jar!/locale/zh-CN/
