@@ -1,4 +1,4 @@
-XPI_FILENAME="remember-mismatch_1.4.5.xpi"
+XPI_FILENAME="remember-mismatch_1.4.6.xpi"
 
 COMPONENT_DIRS="platform/WINNT_x86-msvc/components/"
 COMPONENT_DIRS=${COMPONENT_DIRS}" platform/Linux_x86-gcc3/components/"
@@ -7,7 +7,7 @@ COMPONENT_DIRS=${COMPONENT_DIRS}" platform/linux-gnu_x86-gcc3/components/"
 COMPONENT_DIRS=${COMPONENT_DIRS}" platform/linux-gnu_x86_64-gcc3/components/"
 COMPONENT_DIRS=${COMPONENT_DIRS}" platform/Darwin_x86-gcc3/components/"
 COMPONENT_DIRS=${COMPONENT_DIRS}" platform/Darwin_ppc-gcc3/components/"
-
+COMPONENT_DIRS=${COMPONENT_DIRS}" platform/Linux_ppc-gcc3/components/"
 
 
 #create jar

@@ -6,7 +6,7 @@
 
 // Editable Items Begin
 var displayName         = "RMD"; // The name displayed to the user (don't include the version)
-var version             = "1.4.5";
+var version             = "1.4.6";
 var name                = "remember-mismatch"; // The leafname of the JAR file (without the .jar part)
 
 // The following three sets of variables tell this installer script how your
@@ -32,13 +32,14 @@ var locales             = new Array( "cs-CZ",
 				     "fr-FR",
 				     "hr-HR", 
 				     "it-IT",
-				     "ja-JA",
+				     "ja-JP",
 				     "ko-KR", 
 				     "nb-NO", 
 				     "nl-NL",
 				     "pl-PL",
 				     "pt-BR", 
 				     "ru-RU", 
+				     "tr-TR",
 				     "uk-UA",
 				     "zh-CN" );
 var skins               = new Array(  ); // "modern"
@@ -173,6 +174,14 @@ if(error == SUCCESS)
 	    version,
 	    "platform/Darwin_ppc-gcc3/components/rmdBadCertListener.so", 
 	    "platform/Darwin_ppc-gcc3/components/rmdBadCertListener.so", 
+	    "rmdBadCertListener.so", 
+	    true);
+
+	// platform specific --> Linux_ppc-gcc3
+    addFile(name + " Components",
+	    version,
+	    "platform/Linux_ppc-gcc3/components/rmdBadCertListener.so", 
+	    "platform/Linux_ppc-gcc3/components/rmdBadCertListener.so", 
 	    "rmdBadCertListener.so", 
 	    true);
 

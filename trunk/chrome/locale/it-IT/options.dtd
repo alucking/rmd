@@ -1,16 +1,16 @@
 <!ENTITY window.title.label "Opzioni di Remember Mismatched Domains">
 <!ENTITY tab.mismatch.label "Mancata corrispondenza del nome del dominio">
-<!ENTITY tab.expired.label "Il certificato del server è scaduto">
+<!ENTITY tab.expired.label "Certificati del server scaduti">
 <!ENTITY tabpanel.mismatch.label "Coppie dei nomi di dominio memorizzati">
-<!ENTITY tabpanel.expired.label "Memorizza i certificati scaduti">
+<!ENTITY tabpanel.expired.label "Certificati memorizzati scaduti">
 <!ENTITY treecol.mismatch.domain.label "Dominio del sito">
 <!ENTITY treecol.mismatch.cert.label "Dominio del certificato">
-<!ENTITY treecol.mismatch.fingerprint_sha1.label "Certifica l&apos;impronta (SHA1)">
-<!ENTITY treecol.mismatch.fingerprint_md5.label "Certifica l&apos;impronta (MD5)">
-<!ENTITY treecol.expired.domain.label "Certifica il dominio">
+<!ENTITY treecol.mismatch.fingerprint_sha1.label "Impronta del certificato (SHA1)">
+<!ENTITY treecol.mismatch.fingerprint_md5.label "Impronta del certificato (MD5)">
+<!ENTITY treecol.expired.domain.label "Dominio del certificato">
 <!ENTITY treecol.expired.date.label "Scaduto il">
-<!ENTITY treecol.expired.fingerprint_sha1.label "Certifica l&apos;impronta (SHA1)">
-<!ENTITY treecol.expired.fingerprint_md5.label "Certifica l&apos;impronta (MD5)">
+<!ENTITY treecol.expired.fingerprint_sha1.label "Impronta del certificato (SHA1)">
+<!ENTITY treecol.expired.fingerprint_md5.label "Impronta del certificato (MD5)">
 <!ENTITY button.delete.label "Elimina">
 <!ENTITY button.ok.label "OK">
 <!ENTITY button.cancel.label "Annulla">
