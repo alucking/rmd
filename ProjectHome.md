@@ -1,0 +1,3 @@
+Remember Mismatched Domains
+
+The Remember Mismatched Domains extension for Firefox and Thunderbird adds a "Don’t warn me again about this certificate for this domain" checkbox to the Domain Mismatch and Expired Certificate warning windows. When selected the domain name and security certificate domain pair (or certificate and expiration date pair) is stored in a Firefox / Thunderbird preference and the security error dialogue will be bypassed on subsequent visits.
